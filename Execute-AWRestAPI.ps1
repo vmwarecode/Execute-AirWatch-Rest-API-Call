@@ -1,4 +1,3 @@
-
 <# Execute-AWRestAPI Powershell Script Help
 
   .SYNOPSIS
